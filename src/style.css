@@ -317,6 +317,11 @@ button:focus {
   }
 }
 
+.myAvtar-description {
+  color: white !important;
+  font-size: 1.0em !important;
+}
+
 .home-about-section {
   position: relative;
   padding-bottom: 70px !important;
